@@ -1,5 +1,10 @@
 # Projetos de Estruturas de Dados em C
 
+**Desenvolvido por:** Adriano Emilio de Sousa  
+**Curso:** Análise e Desenvolvimento de Sistemas  
+**Disciplina:** Estrutura de Dados  
+**Matrícula:** 2024 0857 7125
+
 Este repositório contém quatro exercícios práticos em C, desenvolvidos para explorar conceitos fundamentais de estruturas de dados e programação estruturada. Cada exercício simula cenários de jogos ou sistemas interativos, permitindo aplicar conceitos como structs, vetores, filas e árvores binárias.
 
 ## 1. Cadastro de Territórios
